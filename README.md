@@ -1,5 +1,13 @@
-# 💫 About Me:
-I’m currently working on improving my Data Structures & Algorithms skills and building logic-focused projects in C++ and Python.<br><br>🤝 I’m looking to collaborate on open-source projects, especially related to DSA, backend development, or beginner-friendly AI/ML projects.<br><br>🛠 I’m looking for help with system design concepts and advanced problem-solving techniques.<br><br>📚 I’m currently learning Data Structures, Algorithms, and Machine Learning fundamentals.<br><br>💬 Ask me about C++, Python, problem-solving strategies, and time complexity analysis.<br><br>⚡ Fun fact: I enjoy breaking complex problems into small logical steps and optimizing them step by step 🚀
+
+## 👋 About Me
+
+- 🎓 Computer Science undergraduate at The ICFAI University, Jaipur.
+- 💻 Passionate about problem-solving, Data Structures & Algorithms, and software development.
+- 🚀 Currently building real-world projects using C++, Python, React, and TypeScript.
+- 🌱 Exploring Full-Stack Development, Backend Engineering, and AI/ML.
+- 🤝 Interested in collaborating on open-source projects and learning from fellow developers.
+- 💡 I enjoy breaking complex problems into smaller logical steps and finding efficient solutions.
+- 📫 Feel free to connect with me for collaboration, technical discussions, or internship opportunities.
 
 
 ## 🌐 Socials:
